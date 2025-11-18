@@ -4,8 +4,10 @@ let price= prompt (question)
 alert ("The price you want to pay is " + price)
 console.log ("Costumer entered price: " + price)
 
+
 let price= "59.90kr"
 
 ParseFloat (price)
 
+let price= (59.90-(59.90*0.1))
 console.log ("The price is " + price)
