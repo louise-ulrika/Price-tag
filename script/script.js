@@ -8,5 +8,5 @@ console.log ("Costumer entered price: " + price)
 
 
 
-let newPrice= (price*0.1) - parseFloat(price);
+let newPrice=(price*0.9) 
 console.log ("The price is " + newPrice);
